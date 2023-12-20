@@ -14,10 +14,10 @@ Está organizado por pasos del proceso de identificación:
 
 
 
-- [1_datos](1_datos/) El proceso de obtención y procesamiento de las imágenes satelitales. Incluye el archivo de opciones para el paquete [sen2r](https://sen2rts.ranghetti.info/).
+- [1_datos](1_datos/): El proceso de obtención y procesamiento de las imágenes satelitales. Incluye el archivo de opciones para el paquete [sen2r](https://sen2rts.ranghetti.info/).
 
-- Presentación
+- [2_polígonos AV](2_poligonos_AV): Incluye los polígonos de identificación a partir del índice de AVU, este proceso se realizó utilizando Qgis.
 
-- Datos
-  
-  - 
+- [3_sample](3_sample): El proceso de muestreo, la muestra, y la clasificación manual de la misma.
+
+No se incluyen los archivos de explotación, ni ajuste del modelo. 
