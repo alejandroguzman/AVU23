@@ -21,3 +21,5 @@ Está organizado por pasos del proceso de identificación:
 - [3_sample](3_sample): El proceso de muestreo, la muestra, y la clasificación manual de la misma.
 
 No se incluyen los archivos de explotación, ni ajuste del modelo. 
+
+Esperamos que está información permita entender y replicar la identifiación de AVU.
